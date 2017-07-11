@@ -594,6 +594,10 @@ AppModule = __decorate([
 
 var routes = [
     {
+        path: 'Exercise01',
+        component: __WEBPACK_IMPORTED_MODULE_1__home_home_component__["a" /* HomeComponent */]
+    },
+    {
         path: 'home',
         component: __WEBPACK_IMPORTED_MODULE_1__home_home_component__["a" /* HomeComponent */]
     },
